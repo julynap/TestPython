@@ -38,7 +38,7 @@ class saludarAlgatoNegro:
         #self.rasguno = rasguno
 
         rasguno = input(str("Quieres al gato?: "))
-        if rasguno  "si":
+        if rasguno == "si":
             print("Ronrronear")
         else:
             print("Aruñar")
@@ -50,3 +50,14 @@ Gato.saludo(Gato)
 Gato.miau()
 Gato.alimentar(lista)
 Gato.ataque()
+
+class AmigosGatos :
+    #por favor trabajar en esta clase isabellamendozac
+
+
+
+    #crearAmigos()
+    #crearFiestaGatuna()
+
+    def __init__(self):
+        pass

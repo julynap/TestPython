@@ -54,3 +54,8 @@ Gato.miau()
 Gato.alimentar(lista)
 Gato.ataque()
 Gato.dormir()
+
+
+
+
+    
