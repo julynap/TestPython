@@ -51,6 +51,7 @@ Gato.miau()
 Gato.alimentar(lista)
 Gato.ataque()
 
+
 class AmigosGatos :
     #por favor trabajar en esta clase isabellamendozac
 
